@@ -1,3 +1,4 @@
 I love fridays cause it's the end of the week.
 Line 2 has nothing to add.
 Line 3 was added through Github proper.
+Line 4 was added through Git.
